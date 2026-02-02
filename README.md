@@ -24,7 +24,7 @@ The app is structured as a full-stack web application with a robust AI-driven ba
 ---
 
 ## 💻 How We Built It
-1. **Model Training**: Trained the LLAMA 3.2 3B model on Google Colab Premium.
+1. **Model Training**: Trained the LLAMA 3.2 3B model on Google Colab.
 2. **Model Deployment**: Hosted on Runpod for reliable performance.
 3. **Backend**: Flask and Python handle real-time fraud predictions and API interactions.
 4. **Frontend**: Built with React for an intuitive user experience.
