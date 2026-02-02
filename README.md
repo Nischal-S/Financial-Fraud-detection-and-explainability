@@ -1,10 +1,6 @@
 # Fraud Folio  
 An AI-powered fraud detection system that uses LLMs to predict and prevent credit card fraud in real-time.
 
-## Demo Video :- 
-
-https://drive.google.com/file/d/1TALJEVKmtv5y0axhcIqVvMxKyydeBPO_/view?usp=sharing
-
 ## UI Design: - 
 
 https://app.visily.ai/projects/791263dc-da3f-4875-a185-83db894b352c/boards/1374212
